@@ -3,8 +3,6 @@ layout: post
 title: Comparing AWS's Simple-Workflow Service & Step Functions
 ---
 
-# Comparing AWS's Simple-Workflow Service & Step Functions
-
 ## Introduction
 
 A cursory Google search will yield articles comparing SWF to Step-Functions, yet none that we've found exhibit any depth. The following article contains some lessons that have been learnt using these two products.  
